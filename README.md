@@ -5,7 +5,7 @@ Focused Python problem-solving practice for data analyst and data engineering ro
 ## Structure
 
 ```text
-python-daily-coding/
+PYTHON/
 ├── README.md
 ├── easy/
 ├── medium/
@@ -32,7 +32,7 @@ The number is the source problem ID, not a daily sequence. There are no date fol
 
 ## Start in VS Code
 
-1. Clone this repository using **Git: Clone**, or open its local folder yourself.
+1. In VS Code, run **Git: Clone** and use `https://github.com/dinesh-kumar-gudiputi/PYTHON.git`, or open the local PYTHON folder yourself.
 2. Open the assigned numbered file under `easy/`, `medium/` or `hard/`.
 3. Write your own attempt, check the examples and edge cases, then submit it to the mentor for review.
 4. In **Source Control**, review and stage the question files you changed.
