@@ -1,5 +1,6 @@
-"""0242. Valid Anagram
+"""2. Valid Anagram
 Difficulty: Easy
+Source problem: LeetCode 242
 Source: https://leetcode.com/problems/valid-anagram/description/
 
 Task: Decide whether two lowercase strings contain identical letter counts, regardless of order.

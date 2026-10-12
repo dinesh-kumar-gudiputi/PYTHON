@@ -22,13 +22,13 @@ Each question is stored **once**, under its LeetCode difficulty. Easy, medium an
 
 ## File names
 
-Use the problem number, padded to four digits, followed by the question name:
+Start question numbering at 1 and continue within this repository, followed by the question name:
 
 ```text
-easy/0217_contains_duplicate.py
+easy/1_contains_duplicate.py
 ```
 
-The number is the source problem ID, not a daily sequence. There are no date folders. New question files contain the task, source link, example and starter code. The current starter files are intentionally unimplemented.
+The filename number is your own question sequence. PYTHON and SQL each have an independent counter. Continue the counter across easy, medium and hard; do not restart it when changing difficulty. Keep the source platform's problem ID in the file's source information. There are no date folders. New question files contain the task, source link, example and starter code. The current starter files are intentionally unimplemented.
 
 ## Start in VS Code
 
@@ -40,15 +40,15 @@ The number is the source problem ID, not a daily sequence. There are no date fol
 
 When both daily repositories are open, select the matching repository in Source Control before committing. The mentor does not automatically upload your daily solutions.
 
-Example commit: `practice: solve 0217 contains duplicate`
+Example commit: `practice: solve question 1 contains duplicate`
 
 ## First prepared questions
 
 | Number | Question file |
 | --- | --- |
-| 0217 | [Contains Duplicate](easy/0217_contains_duplicate.py) |
-| 0242 | [Valid Anagram](easy/0242_valid_anagram.py) |
-| 0283 | [Move Zeroes](easy/0283_move_zeroes.py) |
+| 1 | [Contains Duplicate](easy/1_contains_duplicate.py) |
+| 2 | [Valid Anagram](easy/2_valid_anagram.py) |
+| 3 | [Move Zeroes](easy/3_move_zeroes.py) |
 
 ## Run your code
 

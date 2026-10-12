@@ -1,5 +1,6 @@
-"""0283. Move Zeroes
+"""3. Move Zeroes
 Difficulty: Easy
+Source problem: LeetCode 283
 Source: https://leetcode.com/problems/move-zeroes/description/
 
 Task: Mutate the input list so zero values follow all nonzero values; preserve nonzero order and do not allocate a second array.

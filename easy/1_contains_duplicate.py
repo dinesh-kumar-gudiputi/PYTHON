@@ -1,5 +1,6 @@
-"""0217. Contains Duplicate
+"""1. Contains Duplicate
 Difficulty: Easy
+Source problem: LeetCode 217
 Source: https://leetcode.com/problems/contains-duplicate/description/
 
 Task: Detect whether any integer occurs more than once.
