@@ -1,6 +1,6 @@
 # Python Daily Coding
 
-Focused Python problem-solving practice for data analyst and data engineering roles. This repository contains coding questions and your attempts. Existing notes, datasets and older work live in [coding-reference](https://github.com/dinesh-kumar-gudiputi/coding-reference).
+Focused Python problem-solving practice for data analyst and data engineering roles. This repository contains only daily coding questions and your attempts.
 
 ## Structure
 
