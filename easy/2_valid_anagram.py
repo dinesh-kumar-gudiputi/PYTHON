@@ -12,4 +12,12 @@ Implement the function below and check its result with these examples.
 """
 
 def is_anagram(s: str, t: str) -> bool:
-    raise NotImplementedError
+    #return sorted(s) == sorted(t)
+    for char in set(s):
+        if s.count(char) != t.count(char):
+            return False
+    return True
+print("Test cases for is_anagram function:")
+print(is_anagram("save", "vase"))  # Expected: True
+print(is_anagram("aab", "abb"))    # Expected: False    
+print(is_anagram("listen", "silent"))  # Expected: True
